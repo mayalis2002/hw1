@@ -1,2 +1,3 @@
 # hw2
-casually mistaken (:) basic programming stuuf
+casually mistaken (:) basic programming stuff
+01.09
